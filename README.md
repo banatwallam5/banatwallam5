@@ -1,6 +1,6 @@
-- 👋 Hello, I’m Muhammad Banatwalla, I am a recent Graduate from the Master's of Statistics and Data science Program at University of Houston
-- 👀 I’m interested in Data science, Dara analytics, Machine Learning, AI, Statistics, Math( Graph and probability Theory in Particular), and Data Visualization
-- 🌱 I’m currently learning SQL and Power BI and hopw to dwelve further into neural networks soon
+- 👋 Hello, I’m Muhammad Banatwalla, I am a data analyst who is always looking to grow his skills. 
+- 👀 I’m interested in Data science, Data analytics, Machine Learning, AI, Statistics, Math( Graph and probability Theory in Particular), Data Visualization and Customer sucess Management. 
+- 🌱I am currently working on expanding my skill set as I look for jobs in my field. 
 - 📫 You can reach me via email-mhbanatwalla@gmail.com /// linkedin- https://www.linkedin.com/in/muhammad-banatwalla-31a551123/
 
 <!---
