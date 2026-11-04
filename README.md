@@ -4,6 +4,8 @@ Some of projects include:
 - [Healthcare Claims Analysis]([url](https://github.com/banatwallam5/healthcare-claims-analysis-SQL-)): I used synthetic patient data created using Synthea. Here I modeled the data as a star scheme in MYSQL and used that to answer several questions that a organization may care about. 
 
 - [CO2 emissions Project- Python]([url](https://github.com/banatwallam5/Python-CO2-emission-project-with-clean-up-and-analysis)): Here I used the [OWIDs CO2 data ]([url](https://github.com/owid/co2-data)) data and used python to first clean up data, then reduces the countries looked at to 96 which accounted for approximately 95% of the data. I then seta  baseline of 2015 and used that to calculate and rank countries by the most positive and negative change in CO2 emission per capita. I then used claude to help explain the trends seen in data and used that to inform how countries are doing in their efforts to reduce CO2 emissions.
+
+- [ecommerce- power BI project]([url](https://github.com/banatwallam5/POWER-BI-project)): Here I used ecommerce data built on the star schema to create visualizations and answer question in power BI. I used Dax and Power Query to help modify the data and create parameters and calculated fields as required. 
  
 You can reach me via email-mhbanatwalla@gmail.com /// linkedin- https://www.linkedin.com/in/muhammad-banatwalla-31a551123/
 
