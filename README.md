@@ -7,9 +7,7 @@ Some of projects include:
 
 - [Ecommerce- Power BI Project]([url](https://github.com/banatwallam5/POWER-BI-project)): Here I used ecommerce data built on the star schema to create visualizations and answer questions in power BI. I used DAX and Power Query to help modify the data and create parameters and calculated fields as required. 
  
-You can reach me via email-[mhbanatwalla@gmail.com](mailto:mhbanatwalla@gmail.com) ///[linkedin-](www.linkedin.com/in/haroon-banatwalla-31a551123
-
-)
+You can reach me via email-[mhbanatwalla@gmail.com](mailto:mhbanatwalla@gmail.com) ///[linkedin-](www.linkedin.com/in/haroon-banatwalla-31a551123)
 
 <!---
 banatwallam5/banatwallam5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
