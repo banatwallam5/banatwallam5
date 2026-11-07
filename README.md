@@ -7,7 +7,7 @@ Some of my projects include:
 
 - [Ecommerce- Power BI Project](https://github.com/banatwallam5/POWER-BI-project): Here I used ecommerce data built on the star schema to create visualizations and answer questions in Power BI. I used DAX and Power Query to help modify the data and create parameters and calculated fields as required. Along this project I caught and fixed a modeling bug caused by Power BI's auto Date/Time setting which was silently creating duplicate hidden calendar tables.
  
-You can reach me via email:[mhbanatwalla@gmail.com](mailto:mhbanatwalla@gmail.com) or via [my LinkedIn](https://www.linkedin.com/in/haroon-banatwalla-31a551123)
+You can reach me via email:[mhbanatwalla@gmail.com](mailto:mhbanatwalla@gmail.com) or via [my LinkedIn](https://www.linkedin.com/in/muhammad-banatwalla)
 
 <!---
 banatwallam5/banatwallam5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
